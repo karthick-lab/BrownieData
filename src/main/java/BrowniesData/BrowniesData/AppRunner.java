@@ -9,6 +9,7 @@ public class AppRunner {
 		UI.main(args);
 		LoginUI.main(args);
 		System.out.println("Test git");
+		System.out.println("Test git");
 
 	}
 
